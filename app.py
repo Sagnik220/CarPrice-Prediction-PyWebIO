@@ -59,9 +59,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     start_server(predict, port=args.port)
-#if __name__ == '__main__':
-    #predict()
-
-#app.run(host='localhost', port=80)
-
-#visit http://localhost/tool to open the PyWebIO application.
