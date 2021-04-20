@@ -1,6 +1,6 @@
 ## CarPrice-Prediction-PyWebIO
 
-A PyWebIO application, to predict price of used cars.Here we have used RandomForest as the backend model to predict/calculate the price of the car.Currently the application is hosted in heroku platform.
+A PyWebIO application, to predict price of used cars.Here we have used RandomForest Regressor Algorithm to predict/calculate the price of the car.Currently the application is hosted in heroku platform.
 
 ### Application Link:
 https://carpriceprediction-web.herokuapp.com/
