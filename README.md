@@ -9,7 +9,7 @@ https://carpriceprediction-web.herokuapp.com/
 ```
 - git clone 
 - Create a virtualenv
-- !pip install pywebio
+- !pip install -r requirements.txt
 - run app.py
 ```  
 ### Application Demo:
